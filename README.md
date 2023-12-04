@@ -1,3 +1,3 @@
-#IndieGames website
+# IndieGames website
 
 In progress...
